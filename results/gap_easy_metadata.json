@@ -1,0 +1,75 @@
+{
+  "experiment": "gap_easy",
+  "config": {
+    "seed": 2018,
+    "trials": 300,
+    "horizon": 5000,
+    "means": [
+      0.2,
+      0.35,
+      0.5,
+      0.65,
+      0.8
+    ],
+    "comparison_policies": [
+      "random",
+      "epsilon_0.1",
+      "ucb1"
+    ],
+    "epsilons": [
+      0.01,
+      0.05,
+      0.1,
+      0.2,
+      0.5
+    ],
+    "gap_environments": {
+      "easy": [
+        0.2,
+        0.8
+      ],
+      "difficult": [
+        0.49,
+        0.51
+      ]
+    },
+    "scaling_horizons": [
+      100,
+      250,
+      500,
+      1000,
+      2000,
+      5000,
+      10000,
+      20000
+    ],
+    "hoeffding": {
+      "means": [
+        0.2,
+        0.5
+      ],
+      "sample_sizes": [
+        10,
+        25,
+        50,
+        100,
+        250,
+        500,
+        1000
+      ],
+      "deltas": [
+        0.05,
+        0.1,
+        0.2
+      ],
+      "replications": 100000
+    }
+  },
+  "python": "3.12.9",
+  "numpy": "2.2.6",
+  "matplotlib": "3.10.3",
+  "platform": "Windows",
+  "rng": "PCG64; SHA256-keyed SeedSequence",
+  "curve_intervals": "mean +/- 1.96 across-trial standard errors; pointwise",
+  "frequency_window": 1000
+}

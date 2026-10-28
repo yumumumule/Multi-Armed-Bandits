@@ -1,0 +1,19 @@
+{
+  "results/data/comparison_counts.csv": "6aeec7d5d7e77ece456f33be6e0546bc8bf9200558321bd97fa96218d455c000",
+  "results/data/comparison_curves.csv": "3e81169f5df2ac599f7d3931874e3aaf49b22506df620a8f900356e4a49cde3f",
+  "results/data/comparison_trials.csv": "8c1545661f5aec41553367f66d7815237503cc72e773a35cf03b4fe445e5a88b",
+  "results/data/epsilon_counts.csv": "b98d105aa8e7f7204f9429178cfdaf47bcfed6a6460662c4f4e6cb628d3c2a21",
+  "results/data/epsilon_curves.csv": "84d002002901059a01382e86d2de8fd196a2a97c8e7290c33a48809483a9c241",
+  "results/data/epsilon_trials.csv": "4892f0ee1d4527bcfb257977a45ee0a612300ac3f577f448ce0ec550445aaa03",
+  "results/data/gap_difficult_counts.csv": "a0d55dc0d46ee47ba973c0ab34bd4df3254d4b19b857aeed2cba5e637983e5e6",
+  "results/data/gap_difficult_curves.csv": "7b94f1aa49ca2875a519b510888f9dccbba0f6e40aa3aa341fe219abf2606700",
+  "results/data/gap_difficult_trials.csv": "fbb90635d7856c427d1688dd25eaed072cf16026be7018543f86847f073839ba",
+  "results/data/gap_easy_counts.csv": "b562c43cd019ded49a78d26a63f87572d37f13ccb88bca657383cbc0a36715d9",
+  "results/data/gap_easy_curves.csv": "44c4fac3456a895dee0e5b29f312ede3c46ac22405f964a8056da6cf8b4c3c88",
+  "results/data/gap_easy_trials.csv": "f00b34e783ef179a24e9e445911fba6883416b4fedba1a87185dc8f2c9b36a6a",
+  "results/data/hoeffding.csv": "ff6dcfe076c4f94cc8305f959506bb4a8fac7766b0475beea0fd99cf6989bf5a",
+  "results/data/paired_differences.csv": "8318b5f89fd5b8ff3f68284e0cee5e0fb23f42ec6246c8f9ddec730d35a318fd",
+  "results/data/scaling_counts.csv": "8e2d24fb8ba5e7beede679401d8a2fa8e82ca2e3ec1eee5339f1a8bbd3a80d8a",
+  "results/data/scaling_curves.csv": "87b8eb8b0b902ce540b3fad81c5405788b83c31fc79b804bf1176fdba45dbb11",
+  "results/data/scaling_trials.csv": "d5fb3c166a0f7c6754071308107170aec48eca99ac98f4e1f1bbf70ef2c69883"
+}
